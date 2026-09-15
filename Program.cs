@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Doing some stuff to check how it works");
+Console.WriteLine("HUUUUUUH");
